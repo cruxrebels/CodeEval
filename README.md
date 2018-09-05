@@ -1,4 +1,4 @@
-CodeEval
+HireVue
 ========
 
-solutions to CodeEval in C++
+Solutions to HireVue(previously called CodeEval, now acquired) in C++.
